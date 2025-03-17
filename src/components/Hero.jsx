@@ -21,7 +21,7 @@ const Hero = () => {
         <h1>
           Hello, I'm <span>Aditya Sairam</span>
         </h1>
-        <p>Software Developer | Web Enthusiast | Engineer</p>
+        <p>Software Developer | Backend Developer | Cloud Specialist</p>
       </div>
     </section>
   );
